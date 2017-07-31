@@ -1,0 +1,95 @@
+2017-07-30 7:56:53 PM - Microsoft VSIX Installer
+2017-07-30 7:56:53 PM - -------------------------------------------
+2017-07-30 7:56:53 PM - vsixinstaller.exe version:
+2017-07-30 7:56:53 PM - 15.0.26430.16 built by: D15SVC
+2017-07-30 7:56:53 PM - -------------------------------------------
+2017-07-30 7:56:53 PM - Command line parameters:
+2017-07-30 7:56:53 PM - C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\vsixinstaller.exe,/appidinstallpath:C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe,/skuName:Community,/skuVersion:15.0.26430.16,/appidname:Microsoft Visual Studio Community 2017,C:\Users\thewi.MOON\AppData\Local\Temp\VSIX4u1cuggn.vsix
+2017-07-30 7:56:53 PM - -------------------------------------------
+2017-07-30 7:56:53 PM - Microsoft VSIX Installer
+2017-07-30 7:56:53 PM - -------------------------------------------
+2017-07-30 7:56:54 PM - Failed to create LocationBasedSKU: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Microsoft.VisualStudio.Setup.Configuration.ISetupInstance2.GetInstallationPath()
+   at VSIXInstaller.LocationBasedSKU..ctor(ISetupInstance2 instance)
+   at VSIXInstaller.SupportedSKUs.<>c.<AddInstalledLocationBasedSKUs>b__12_0(ISetupInstance2 instance)
+   at VSIXInstaller.SupportedSKUs.EnumerateIsolatedInstalls(Action`1 callback)
+2017-07-30 7:56:54 PM - Initializing Install...
+2017-07-30 7:56:54 PM - Extension Details...
+2017-07-30 7:56:54 PM - 	Identifier         : VSIX.VS2017.bee6b3cd-47e4-4c20-863c-ff848f12685c
+2017-07-30 7:56:54 PM - 	Name               : AllJoyn Device System Bridge Template for VS2017
+2017-07-30 7:56:54 PM - 	Author             : Microsoft
+2017-07-30 7:56:54 PM - 	Version            : 1.0
+2017-07-30 7:56:54 PM - 	Description        : C++ and C# project templates to develop custom AllJoyn Device System Bridge applications in Visual Studio 2017.
+2017-07-30 7:56:54 PM - 	Locale             : en-US
+2017-07-30 7:56:54 PM - 	MoreInfoURL        : 
+2017-07-30 7:56:54 PM - 	InstalledByMSI     : False
+2017-07-30 7:56:54 PM - 	SupportedFrameworkVersionRange : [4.5,)
+2017-07-30 7:56:54 PM - 
+2017-07-30 7:56:55 PM - 	SignatureState     : ValidSignature
+2017-07-30 7:56:55 PM - 	SignedBy           : Microsoft Corporation
+2017-07-30 7:56:55 PM - 	Certificate Info   : 
+2017-07-30 7:56:55 PM - 		-------------------------------------------------------
+2017-07-30 7:56:55 PM - 		[Subject]       : CN=Microsoft Corporation, OU=MOPR, OU=OPC, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+2017-07-30 7:56:55 PM - 		[Issuer]        : CN=Microsoft Code Signing PCA 2010, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+2017-07-30 7:56:55 PM - 		[Serial Number] : 330000017D015E4C2BE2BCF66900000000017D
+2017-07-30 7:56:55 PM - 		[Not Before]    : 2017-02-15 2:10:16 PM
+2017-07-30 7:56:55 PM - 		[Not After]     : 2018-05-09 3:10:16 PM
+2017-07-30 7:56:55 PM - 		[Thumbprint]    : 69713C6FF47FADFF90C9465F7783E6E08232B28F
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - 	Supported Products : 
+2017-07-30 7:56:55 PM - 		Microsoft.VisualStudio.Community
+2017-07-30 7:56:55 PM - 			Version : [15.0,16.0)
+2017-07-30 7:56:55 PM - 		Microsoft.VisualStudio.Pro
+2017-07-30 7:56:55 PM - 			Version : [15.0,16.0)
+2017-07-30 7:56:55 PM - 		Microsoft.VisualStudio.Enterprise
+2017-07-30 7:56:55 PM - 			Version : [15.0,16.0)
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - 	References         : 
+2017-07-30 7:56:55 PM - 	Prerequisites      : 
+2017-07-30 7:56:55 PM - 		-------------------------------------------------------
+2017-07-30 7:56:55 PM - 		Identifier   : Microsoft.VisualStudio.Component.CoreEditor
+2017-07-30 7:56:55 PM - 		Name         : Visual Studio core editor
+2017-07-30 7:56:55 PM - 		Version      : [15.0,16.0)
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - 		-------------------------------------------------------
+2017-07-30 7:56:55 PM - 		Identifier   : Microsoft.VisualStudio.ComponentGroup.UWP.VC
+2017-07-30 7:56:55 PM - 		Name         : C++ UWP support
+2017-07-30 7:56:55 PM - 		Version      : [15.0,16.0)
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - 		-------------------------------------------------------
+2017-07-30 7:56:55 PM - 		Identifier   : Microsoft.VisualStudio.Component.UWP.Support
+2017-07-30 7:56:55 PM - 		Name         : Windows 10 UWP development support
+2017-07-30 7:56:55 PM - 		Version      : [15.0,16.0)
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - Signature Details...
+2017-07-30 7:56:55 PM - 	Extension is signed with a valid signature.
+2017-07-30 7:56:55 PM - 
+2017-07-30 7:56:55 PM - PKGDEF Information: Looking for master PkgDef file, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\master.pkgdef
+
+2017-07-30 7:56:55 PM - PKGDEF Information: Creating PkgDefCacheNonVolatile
+2017-07-30 7:56:55 PM - PKGDEF Information: Double-checking master pkgdef file
+2017-07-30 7:56:55 PM - PKGDEF Information: PkgDefManagement initialized
+2017-07-30 7:56:55 PM - PKGDEF Information: RootFolder, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+
+2017-07-30 7:56:55 PM - PKGDEF Information: ShellFolder, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+
+2017-07-30 7:56:55 PM - PKGDEF Information: PkgDefSearchPath, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.admin.pkgdef
+
+2017-07-30 7:56:55 PM - PKGDEF Information: ImageManifestSearchPath, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions;C:\Users\thewi.MOON\AppData\Local\Microsoft\VisualStudio\15.0_48daf52d\Extensions
+
+2017-07-30 7:56:55 PM - PKGDEF Information: ApplicationExtensionsFolder, Path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions
+
+2017-07-30 7:56:55 PM - PKGDEF Information: "ZeroImpact" = dword:0, "MergeRegistry" = dword:3
+2017-07-30 7:56:55 PM - PKGDEF Information: Could not find ConfigurationChanged timestamp., PKGDEF: 80070002
+2017-07-30 7:56:55 PM - PKGDEF Information: Could not find ConfigurationChanged timestamp., PKGDEF: 80070002
+2017-07-30 7:56:55 PM - PKGDEF Information: PkgDefCache flags, PKGDEF: 7001
+2017-07-30 7:56:55 PM - PKGDEF Information: Could not find ConfigurationChanged timestamp., PKGDEF: 80070002
+2017-07-30 7:56:55 PM - PKGDEF Information: Could not find ConfigurationChanged timestamp., PKGDEF: 80070002
+2017-07-30 7:56:55 PM - PKGDEF Information: PkgDef cache is current.
+2017-07-30 7:56:55 PM - PKGDEF Information: PkgDefManagement startup complete
+2017-07-30 7:56:57 PM - The extension with ID 'VSIX.VS2017.bee6b3cd-47e4-4c20-863c-ff848f12685c' is not installed to Microsoft Visual Studio Community 2017.
+2017-07-30 8:00:05 PM - The following target products have been selected...
+2017-07-30 8:00:05 PM - 	Microsoft Visual Studio Community 2017
+2017-07-30 8:00:05 PM - 
+2017-07-30 8:00:07 PM - Beginning to install extension to Microsoft Visual Studio Community 2017...
+2017-07-30 8:00:28 PM - Install to Microsoft Visual Studio Community 2017 completed successfully. The extension has been installed to C:\USERS\THEWI.MOON\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\15.0_48DAF52D\EXTENSIONS\KAP3XTBZ.PYN\
